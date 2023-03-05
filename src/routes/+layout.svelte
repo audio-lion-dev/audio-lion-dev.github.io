@@ -7,6 +7,6 @@
 <DevInfo />
 <NavBar />
 
-<main class="flex justify-center py-20">
+<main class="row py-20 text-center">
 	<slot />
 </main>
